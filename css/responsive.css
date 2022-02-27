@@ -1,0 +1,17 @@
+@media(max-width: 991px) {
+    .slider_area {
+        height: auto;
+    }
+    .img_box img {
+        width: 100%;
+    }
+    .single_choose {
+        margin-bottom: 30px;
+    }
+    .w-50 {
+        width: 100% !important;
+    }
+    .single_footer {
+        margin-bottom: 50px;
+    }
+}
